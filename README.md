@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoang Viet
-- 🌱 I’m currently learning HTML,CSS, hope u guys like my repository.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a Software Developer and highly passion of technology
+- 💞️ I’m now jump on learning AWS and want to become a expert of Solution Architect
 
 ![alt text](https://www.codewars.com/users/hoangviet2796/badges/large)
 <!---
